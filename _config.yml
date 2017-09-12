@@ -1,0 +1,6 @@
+title: Interactive 2 — CCA
+email: cschmidt@cca.edu
+description: "A course about browser exploration at California College of the Arts in the Fall of 2017"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://fall2017.doing.computer" # the base hostname & protocol for your site
+github_username: cls-teaching

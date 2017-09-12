@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>{{ site.title }}—{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/global.css">
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <div>{% include nav.html %}</div>
+    <div id="container">
+      {{ content }}
+    </div>
+  </body>
+</html>
