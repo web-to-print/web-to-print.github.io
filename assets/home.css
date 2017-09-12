@@ -25,7 +25,7 @@ div#spinner {
   overflow: hidden;
   color: red;
 } #spinner svg {
-  animation: spin 5s linear infinite;
+  animation: spin 40s linear infinite;
 }
 
 #marquee span {

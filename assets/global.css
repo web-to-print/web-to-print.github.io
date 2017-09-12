@@ -15,6 +15,9 @@ Have FUN !
 
 body {
   margin: 1.5em;
+  background: moccasin;
+  color: rgb(50,50,50);
+  font-family: "Oswald", sans-serif;
 }
 
 #container {
@@ -28,21 +31,21 @@ img {
 }
 
 a {
-  color: blue;
+  color: tomato;
   text-decoration: none;
-  padding-bottom: .1em;
-  border-bottom: .1em solid blue;
+  padding: .1em;
+  border-bottom: .1em solid tomato;
   transition: all .25s;
 }
 
 a:visited {
-  color: blue;
+  color: tomato;
 }
 
 a:hover {
   text-decoration: none;
-  background-color: blue;
-  color: white;
+  background-color: tomato;
+  color: moccasin;
 }
 
 p {
@@ -55,4 +58,14 @@ h1 {
 
 li li {
   margin-left: 1em;
+}
+
+nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 1.5em;
+  padding-top: 1em;
+  width: 100vw;
+  background-color: moccasin;
 }
