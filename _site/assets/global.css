@@ -1,0 +1,58 @@
+/* Use this CSS file to control all the CSS on the course website. Notice that a lot of stuff has been styled in the *{} section. Other tags to think about might be h2, h3, em, & ul.
+
+Have FUN !
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 3vw;
+  line-height: 1.5em;
+  font-weight: normal;
+  z-index: 2;
+}
+
+body {
+  margin: 1.5em;
+}
+
+#container {
+  margin-top: 1em;
+}
+
+img {
+  display: block;
+  float: right;
+  margin: .5em;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  padding-bottom: .1em;
+  border-bottom: .1em solid blue;
+  transition: all .25s;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+}
+
+p {
+  margin-bottom: .5em;
+}
+
+h1 {
+  color: red;
+}
+
+li li {
+  margin-left: 1em;
+}

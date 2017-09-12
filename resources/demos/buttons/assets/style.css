@@ -1,0 +1,67 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: helvetica, arial, sans-serif;
+}
+
+/* container */
+
+.container {
+  width: 95vw;
+  margin: auto;
+  clear: both;
+}
+
+/* items */
+
+.item {
+	height: 5vw;
+	width: 11.3vw;
+	background: white;
+  border: 1px solid black;
+
+	margin: 1vw;
+
+	/* comment out 'float: left;' to have items stack in a single column */
+	float: left;
+
+	/* uncomment this to get CSS transitions (conflicts with jQuery) */
+	transition: all 5s ease;
+}
+
+#button-0 {
+  background-color: lime;
+}
+
+.color{
+  margin-left: 3vw;
+  transition: all 4s ease;
+} .color:hover {
+  background: green;
+}
+
+
+
+@keyframes bounce {
+  10% {
+    border-radius: 50%;
+  }
+
+  40% {
+    transform: scale(2);
+  }
+
+  70% {
+    background: goldenrod;
+  }
+}
+
+.bounce:hover {
+  animation-name: bounce;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  transform-origin: center bottom;
+}
