@@ -6,69 +6,94 @@ back: projects
 
 ---
 
-# Project 1 — Mouse Events
+# Project 1: Printing the Web
 
-## INSTRUCTIONS
+“For us, makers, the creative process has transformed into a series of digital clicks and actions. These actions are temporary. Once executed, they disappear from the screen. We can hardly trace back how things looked when we were creating them. Is there a way we can archive, publish and reproduce these actions?”
 
-1. Choose a single action (Click, Scroll, Hover or Resize).
-2. Develop a microsite which uses this—and only this—action to create a multi-sensory experience for users.
+– Inez Cox
 
-## DIRECTIONS
+Project Themes:
+Interface Aesthetics
+Translation
 
-The aforementioned actions largely dominate the how we interact with content on the web. They are subconscious and ubiquitous means to an end. Because of this, their use has become overlooked, we know what to expect when we click on a link, scroll down a news feed, or hover on a button. But these expectations do not define the potential that these simple activities posses. For this project you will explore them not as typical ways to get to content, but as the content themselves. You will dive deep and analyse each experiential consequence before, during, and after an action and push them towards profound results.
+. . . . . . . . . . . . . .
 
-Use this prompt to push your chosen action to do something it would not typically do and you may not know how to do. Do not concern yourself with ‘best practices’ or how things ‘should’ work, but experiment with alternatives and stumble upon anomalies. A good project in this sense is not code-heavy and complex but nimble in how it connects simple scripts to create rich and engaging results.
+## Readings
 
-![](https://thumbs-prod.si-cdn.com/YhL7SqrhuOJkLewMl8WSUhI0n2g=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/79/96/7996d7ab-4dee-49a6-acae-bccfbf379b24/engelbart.jpg)
+Ines Cox: The Process of Design Cannibalization
+https://walkerart.org/magazine/ines-cox-the-process-of-design-cannibalization
 
-Douglas Engelbart presenting the Mouse in 1968
+Design and Production in the Mechanical Age
+Ellen Lupton (Graphic Design in the Mechanical Age, 1998)
 
-## OBJECTIVES
 
-- Increase your familiarity, comfort, and knowledge of foundational actions.
-- Introduce or expand knowledge using jquery to create dynamic experiences.
-- String together a complex, compelling, and engaging experience from a simple act.
-- Challenge and analyse the status-quo of how actions are typically implemented and how they might alternatively be used.
-- Break down sensory barriers to create multi-sensory and spatial experiences.
-- Explore activating unexpected elements on the screen.
 
-## INSTRUCTIONS
+. . . . . . . . . . . . . .
 
-1. Choose a single action (Click, Scroll, Hover or Resize).
-2. Develop a microsite which uses this—and only this—action to create a multi-sensory experience for users.
+## Prompt
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mouse-cursor-hand-pointer.svg/763px-Mouse-cursor-hand-pointer.svg.png)
+What does the web look like translated into printed form?
+What is the underlying architecture of an interface?
+How can we translate intangible interfaces experiences (clicks, scrolls, rollovers, animations, responsiveness, etc…) to ink and paper?
 
-Mouse pointer
+Goal:   
+Visual research, striping down content to abstraction of container. Container as content.
 
-## REFERENCES
+. . . . . . . . . . . . . .
 
-- [This Click In Time, by Jonas Lund](https://jonaslund.biz/works/this-click-in-time/)
-- [What You See Is What You Get, by Jonas Lund](https://jonaslund.biz/works/what-you-see-is-what-you-get/)
-- [Over and Over Again, by Jonas Lund](https://jonaslund.biz/works/over-and-over-again/)
-- [The Zoom Series, Liat Berdugo](http://www.liatberdugo.com/zoomseries)
-- [Recursor, by Brian James](http://recursor.me/)
-- [we will attack .com, by Rafaël Rozendaal](http://www.wewillattack.com/)
-- [annoying cursor .com, by Rafaël Rozendaal](http://www.annoyingcursor.com/)
-- [jello time .com, by Rafaël Rozendaal](http://www.jellotime.com/)
+## Process
 
-![](http://assets.nydailynews.com/polopoly_fs/1.2469351.1450384178!/img/httpImage/image.jpg_gen/derivatives/article_750/apple-macworld.jpg)
+### Step 1
+We will draw from a hat and assign everyone a website you probably use weekly (if not everyday).
 
-![](http://media.idownloadblog.com/wp-content/uploads/2013/03/Apple-pinch-zoom-patent-drawing-001.jpg)
+Websites:
+google search
+Facebook
+Tumblr
+instagram
+Twitter,
+Pinterest
+Youtube
+google docs
+drop box
+Pandora
+Netflix
+Redit
+Wikipedia
 
-Pinch zoom patent
+Sept 5 / In class
 
-Steve Jobs announcing the iPhone in 2007
+Write a description of what you interface does. Answer questions like:
+What is it’s purpose?
+What can it do?
+Who are its users?
+How would you describe its interface (intuitive, prescriptive, linear, random, etc…)
+What are the interface’s characteristics?
 
-## READING
+### Step 2: Analyze Interface Architecture
 
-- Neil Stephenson, MotherEarth Motherboard
-- [Olia Lialina, A Vernacular Web Pt 2](http://fall2017.designing.tools/library/vernacular-web)
-- [Rob Giampietro, I am A Handle](http://fall2017.designing.tools/library/i-am-a-handle)
-- [Bryan Gardiner, The Science of Waiting](http://fall2017.designing.tools/library/waiting-to-load)
+The “architecture” of an interface mediates how we see and interpret content. Observe, record, remix, recycle, map these digital actions and frameworks.
 
-## SCHEDULE
+Do exhaustive visual studies, create 30 versions on 11 x 17 paper.
+Objective is to reveal the underlying architecture of your given interface.
+Deconstruct? Reveal? Distill?
 
-- Week 1:  [50 Result Charrette](https://docs.google.com/a/cca.edu/document/d/1IpfGPVWUDhejru51IksN-ewtcy_NK2pVnc_jHUZHAwk/edit?usp=sharing) Develop a single page website which documents 50 possible returns for your chosen action.
-- Week 2-3: Choose 1 of your results from the charrette and expand it into a full-fledged microsite proposal.
-- Week 4: Refinement and development of final microsite.
+10 cut paper / photocopy
+10 on computer
+10 3d
+
+### Step 3
+
+Distill your visual studies to a single poster any size (minimum size 24 x 36)
+
+
+## Schedule
+
+Thurs Sept 7: Do Inez Cox Reading.
+Results of Step 2: Show 15 printed sketches of your website.
+
+Tuesday Sept 12:
+Results of Step 2: Show printed sketches of your website.
+
+Thurs Sept 14:  
+Results of Step 3: Show final poster
