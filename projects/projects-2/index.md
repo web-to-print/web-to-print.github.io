@@ -6,7 +6,7 @@ back: projects
 
 ---
 
-# Project 2
+# Project 2 — The Inspector
 
 ## Themes
 
@@ -47,4 +47,4 @@ Examine simple book & binding forms
 Refine
 
 ## Week 4:
-Critique 
+Critique
