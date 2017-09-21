@@ -23,7 +23,7 @@ Goal: Introduction to web programming concepts. Understanding the construction o
 
 ## Steps
 
-Take the website you’ve been blogging
+Take the website you’ve been using as a blogging platform
 Use the inspector to make visualizations of your blogging platforms (10)
 Make a narrative in book form. Book is 6x9
 
@@ -32,7 +32,19 @@ Through a tool in the browser called an inspector, we can see and modify the cod
 We can also use the inspector to modify websites. We can use existing forms to create new forms.
 
 
-## Week one:
-Code lessons
+## Week 1:
+HTML & CSS fundamentals  
+Learning to use the inspector  
+Create 10 printed forms with inspector & screenshot  
 
 ## Week 2:
+Review forms and choose a direction
+Reassemble printed forms for alternative narratives
+HTML & CSS in-class exercise
+
+## Week 3:
+Examine simple book & binding forms
+Refine
+
+## Week 4:
+Critique 
